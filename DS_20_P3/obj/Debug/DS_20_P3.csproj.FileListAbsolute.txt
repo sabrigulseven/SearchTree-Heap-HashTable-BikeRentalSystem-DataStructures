@@ -1,0 +1,7 @@
+C:\Users\sabri\source\repos\DS_20_P3\DS_20_P3\bin\Debug\DS_20_P3.exe.config
+C:\Users\sabri\source\repos\DS_20_P3\DS_20_P3\bin\Debug\DS_20_P3.exe
+C:\Users\sabri\source\repos\DS_20_P3\DS_20_P3\bin\Debug\DS_20_P3.pdb
+C:\Users\sabri\source\repos\DS_20_P3\DS_20_P3\obj\Debug\DS_20_P3.csprojAssemblyReference.cache
+C:\Users\sabri\source\repos\DS_20_P3\DS_20_P3\obj\Debug\DS_20_P3.csproj.CoreCompileInputs.cache
+C:\Users\sabri\source\repos\DS_20_P3\DS_20_P3\obj\Debug\DS_20_P3.exe
+C:\Users\sabri\source\repos\DS_20_P3\DS_20_P3\obj\Debug\DS_20_P3.pdb
